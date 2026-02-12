@@ -1,6 +1,6 @@
-# fnf-mobile-resources
-// mobile modding resources...
-// most of these focuses on android in mind so if ur on ios some of these might not work for u,,,,im gonna try tho
+# FNF Modding Resources (for ios and android)
+
+// most of these focus on android in mind so if ur on ios some of these might not work for u,,,,im gonna try tho
 // some of these are also just a pref, lmk if theres stuff that u use but isnt here!!
 
 FILE ORGANIZATION
