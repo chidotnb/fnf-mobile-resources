@@ -9,11 +9,11 @@ FILE ORGANIZATION
 2. Material files - https://f-droid.org/packages/me.zhanghai.android.files/
 
 SPRITE MAKING
-1. actually drawing shit
+I. actually drawing shit
    1.1 IbisPaint X - https://ibispaint.com/
    1.2 Procreate - https://procreate.com/
    1.3 Flipaclip - https://flipaclip.com/
-2. spritesheet making
+II. spritesheet making
    2.1 Tex Packer EX - https://kitzsh.github.io/tex-packer-ex/
 // alternatively there is actual forks that focus on fnf but some of them were made by weirdos iirc so nah
    2.2 Spritesheet and XML Generator - https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web/
