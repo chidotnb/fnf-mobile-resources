@@ -29,6 +29,7 @@ II. Exporting
    2. Pocket Engine - https://gamebanana.com/mods/406483
    3. Funkin' Android (the older one) - https://github.com/luckydog7/Funkin-android
    4. Funkin' Android (0.4.X) - https://github.com/FunkinDroidTeam/Funkin
+   5. Funkin4ios - https://github.com/hadobedo/FunkiniOS
 > was going to put psych engine port but decided not to since the person who made it lowk does not deserve attention (fuck lily)
 
 # Programming
