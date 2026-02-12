@@ -31,7 +31,7 @@ i'll try my best to keep updating this with new apps that come to my attention b
 - [BandLab](https://www.bandlab.com/) - A more simpler alternative that supports both and also has a web version
 
 # FNF Engines
-- [Friday Night Funkin' (V-Slice)](https://play.google.com/store/apps/details?id=me.funkin.fnf) - The official mobile port of FNF
+- [Friday Night Funkin' (V-Slice)](https://youtu.be/zHyt69mJnj8) - The official mobile port of FNF
       > btw this has its own mod page on gb!! [check it here](https://gamebanana.com/mods/cats/38080)
 - [Pocket Engine](https://gamebanana.com/mods/406483) - An FNF engine that mimics the knockoff FNF apps on the play store but you can actually mod it
 - [Funkin' Android (the older one)](https://github.com/luckydog7/Funkin-android) - The original unofficial android port by luckydog7 that predates the official port
